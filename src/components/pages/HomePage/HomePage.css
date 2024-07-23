@@ -1,0 +1,6 @@
+/* src/components/pages/HomePage/HomePage.css */
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
