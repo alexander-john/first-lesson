@@ -6,7 +6,7 @@ import './Header.css';
 const Header = () => {
     return (
         <header className="header">
-            <Text>Hello World</Text>
+            <Text>To the moon!</Text>
         </header>
     );
 };
